@@ -1,0 +1,7 @@
+{
+    "name": "Python latest",
+    "image": "mcr.microsoft.com/vscode/devcontainers/python:latest",
+    "extensions": [
+      "ms-python.python"
+    ]
+  }
