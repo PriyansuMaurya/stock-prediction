@@ -8,5 +8,11 @@
     data from various sources into a format that can be used by machine learning algorithms
 
 """
+print("init", __name__)
 
+
+
+def data_ingestion():
+    print("model trainer")
+    return 
 
